@@ -1,6 +1,6 @@
 # Project_Skills
 
-Organised markdown template created to make project information easy to complete and maintain.
+Organised markdown document model created to make project information easy to complete and maintain.
 
 - For those who wants find a dataset to build a project: [Open datasets](https://data.gov.ie/dataset/)
 

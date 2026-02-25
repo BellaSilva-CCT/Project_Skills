@@ -46,7 +46,7 @@ Organised markdown document model created to make project information easy to co
 -> Decide what is included (major deliverables) and what is excluded (MoSCoW model):
 
 - ***Must have and why:***
-  - test
+  - test test
 - ***Should have and why:***
   - TODO
 - ***Could have and why:***
